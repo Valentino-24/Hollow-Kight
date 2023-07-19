@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+  padding: 0;
+  }
+  body {
+    background-image:url(https://allgamersin.com/wp-content/uploads/2018/11/hollowknight.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #010b2a; 
+  
+  }
+  #header{
+    width: 100%;
+    height: 10%;
+      left: 0; 
+      top: 0; 
+      position: fixed;
+    background: linear-gradient(to bottom right, black, rgba(0, 0, 0, 0.86));
+  
+  }
+  #general{
+    border-radius: 5%;
+    background: linear-gradient(to bottom, rgb(15, 15, 15),rgba(15,15,15,0.95), rgba(15, 15, 15, 0.93));
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding-top: 4em;
+  }
+  #general h1{
+    margin-left: 25px;
+    color: white;
+    font-family: 'papyrus';
+    text-shadow: 3px 3px 3px black
+  }
+  
+  #general p{
+    font-style: italic;
+    font-size:medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 20px 20px 20px;
+    margin: 20px;
+    color: white;
+  }
+  #logo img{
+    width: 10%;
+    display: block;
+    margin: 0.5em auto ;
+  
+  }
+  #game img{
+   width: 40%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10%;
+  }
+  
+  .barra{
+    background-color: white;
+    margin: 0.2em auto;
+    width: 95%;
+    height: 1px;
+  }
+  #game iframe{
+    width: 40%;
+     display: block;
+     margin: 0 auto;
+   }
